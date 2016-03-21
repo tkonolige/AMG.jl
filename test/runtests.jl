@@ -1,4 +1,4 @@
-using AMG.jl
+using AMG
 using Base.Test
 
 # write your own tests here

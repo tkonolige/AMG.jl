@@ -1,4 +1,4 @@
-module AMG.jl
+module AMG
 
 # package code goes here
 
